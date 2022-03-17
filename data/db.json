@@ -1,0 +1,28 @@
+{
+  "recipes": [
+    {
+      "title": "Super-quick sesame ramen",
+      "ingredients": "80g pack instant noodles (look for an Asian brand with a flavour like sesame), 2 spring onions , finely chopped, ½ head pak choi , 1 egg, 1 tsp sesame seeds, chilli sauce ",
+      "body": "Cook the noodles with the sachet of flavouring provided (or use stock instead of the sachet, if you have it). Add the spring onions and pak choi for the final min. Meanwhile, simmer the egg for 6 mins from boiling, run it under cold water to stop it cooking, then peel it. Toast the sesame seeds in a frying pan.Tip the noodles and greens into a deep bowl, halve the boiled egg and place on top. Sprinkle with sesame seeds, then drizzle with the sauce or sesame oil provided with the noodles, and chilli sauce, if using",
+      "author": "Lulu Grimes",
+      "minutes": 10,
+      "id": 1
+    },
+    {
+      "title": "Quick chicken hummus bowl ",
+      "ingredients": "200g hummus ,1 small lemon , zested and juiced,200g pouch cooked mixed grains (we used Merchant Gourmet red rice & quinoa),150g baby spinach , roughly chopped,1 small avocado , halved and sliced,1cooked chicken breast , sliced at an angle,100g pomegranate seeds,½ red onion , finely sliced,2 tbsp toasted almonds",
+      "body": "Mix 2 tbsp of the hummus with half the lemon juice, the lemon zest and enough water to make a drizzly dressing. Squeeze the grain pouch to separate the grains, then divide between two shallow bowls and toss through the dressing. Top each bowl with a handful of the spinach.Squeeze the remaining lemon juice over the avocado halves, then add one half to each bowl. Divide the chicken, pomegranate seeds, onion, almonds and remaining hummus between the two bowls and gently mix everything together just before eating.",
+      "author": "Luigi",
+      "minutes": 15,
+      "id": 2
+    },
+    {
+      "title": "10-minute couscous salad",
+      "ingredients": "100g couscous, 200ml hot low salt vegetable stock (from a cube is fine), 2 spring onions, 1 red pepper, ½ cucumber ,50g feta cheese(cubed) ,2tbsp pesto, 2tbsp pine nuts",
+      "body": "Tip the couscous into a large bowl and pour over the stock. Cover, then leave for 10 mins until fluffy and all the stock has been absorbed. Meanwhile, slice the onions and pepper, and dice the cucumber. Add these to the couscous, fork through the pesto, crumble in the feta, then sprinkle over pine nuts to serve.",
+      "author": "Joe Dart",
+      "minutes": 10,
+      "id": 3
+    }
+  ]
+}
